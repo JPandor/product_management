@@ -1,0 +1,15 @@
+#product_form{
+    width: 40%;
+    margin-left: 2%;
+}
+
+.content_wrapper {
+    min-height: 80vh;
+    min-height: -webkit-calc(100vh - 20vh);
+    min-height: -moz-calc(100vh - 20vh);
+    min-height: calc(100vh - 20vh);
+}
+
+footer {
+    min-height: 15vh;
+}
